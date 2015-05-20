@@ -1,0 +1,49 @@
+h1{
+  font-size:30pt;
+}
+p{
+  font-size:16pt;
+}
+.protitle{
+  float:left;
+  margin-top:0.5em !important;
+}
+.progress{
+  margin-left:25% !important;
+}
+
+#navbar{
+  text-align:center;
+}
+#me_intro{
+  margin:auto;
+  margin-left:1.5em;
+}
+#me_pic{
+  margin-right:3.5em;
+  margin-left:1em;
+}
+
+#me_footer{
+  margin-top:3em;
+}
+
+#exp_header{
+  text-align:center;
+  margin-bottom:2em;
+}
+
+#skill_header{
+  text-align:center;
+  margin-bottom:2em;
+}
+#navbar{
+  position:absolute;
+  top:0;
+  width:100%;
+  margin:0 auto;
+  z-index:1;
+}
+.links{
+  margin-right:2em !important;
+}
